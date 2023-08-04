@@ -9,7 +9,7 @@ export async function chatCompletionRequest(
 ) {
   const headers = {
     "Content-Type": "application/json",
-    Authorization: `Bearer ${API_KEY}`,
+    Authorization: `Bearer ${'LjgGMItsDLcYTnB5DOCb_-cgEESf7-8CUk8JabAL_5euJQ1ROxEVp6Otr7bpWkwvJow9DQqdndjcluzHg65a7ww'}`,
   }
 
   const jsonData = {
